@@ -26,6 +26,8 @@ Copy this link:
 
 https://raw.githubusercontent.com/breannliu/DKU-advising-CRLA2627/refs/heads/main/crla-training-fall-2026.ics
 
+This calendar is mainly for student leaders, including peer mentors and tutors. For more information, please email Breann Liu at [y.liu@dukekunshan.edu.cn](mailto:y.liu@dukekunshan.edu.cn).
+
 ## Before you begin
 
 1. Choose the calendar you want to add.
