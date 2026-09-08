@@ -1,0 +1,648 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Duke Kunshan University//Academic Calendar 2026-2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DKU Academic Calendar 2026-2027
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-08-14-1@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:All new international undergraduate students (Class of 2030) and in
+ ternational first-year graduate students move-in.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday at 9:00 AM. Calendar su
+ bject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-08-16-2@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:All new Chinese undergraduate students (Class of 2030) and Chinese 
+ first-year graduate students move-in.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Sunday at 9:00 AM. Calendar su
+ bject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-08-21-3@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Returning undergraduate and graduate students move-in.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday at 9:00 AM. Calendar su
+ bject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-08-24-4@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Undergraduate and graduate classes begin.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Monday. Calendar subject to ch
+ ange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-08-27-5@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Drop/add ends for first 7-week undergraduate session.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-09-03-6@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Drop/add ends for 14-week undergraduate session.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-09-04-7@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Drop/add ends for graduate classes.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday. Calendar subject to ch
+ ange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-09-18-8@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Classes continue. The Thursday class meeting schedule is in effect 
+ on this day.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday. Calendar subject to ch
+ ange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-09-24-9@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Last day to withdraw with a W grade of first 7-week classes\; last 
+ day to change grading basis of first 7-week classes\; last day to resolve I
+  grade of second seven-week classes in spring 2026.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-09-25-10@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Mid-Autumn Festival - No classes.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday - Sunday. Calendar subj
+ ect to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-10-01-11@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:National Day Holiday - No classes.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday - Sunday. Calendar su
+ bject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261012
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-10-12-12@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:All classes resume.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Monday. Calendar subject to ch
+ ange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-10-15-13@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:First 7-week undergraduate session ends.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-10-16-14@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Undergraduate reading period.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday - Sunday. Calendar subj
+ ect to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-10-19-15@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:First 7-week undergraduate session final examinations. Graduate cla
+ sses continue.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Monday - Thursday. Calendar su
+ bject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261023
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-10-26-16@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Second 7-week undergraduate session begins.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Monday. Calendar subject to ch
+ ange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-10-29-17@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Drop/add ends for second 7-week undergraduate session.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-11-12-18@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Last day to withdraw with a W grade of 14-week classes. Last day to
+  change grading basis of 14-week classes.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-11-26-19@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Graduate classes end (ECE classes continue)\; last day to withdraw 
+ with a W grade of second 7-week classes\; last day to change grading basis 
+ of second 7-week classes\; last day to resolve I grade of first 7-week clas
+ ses.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-11-27-20@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Graduate reading days\; ECE classes continue.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday - Tuesday. Calendar sub
+ ject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261202
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-12-02-21@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Graduate exams.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Wednesday - Friday. Calendar s
+ ubject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261205
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-12-03-22@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:ECE classes end.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-12-04-23@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:ECE program reading days.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday - Tuesday. Calendar sub
+ ject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261209
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-12-09-24@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:ECE program exam period.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Wednesday - Friday. Calendar s
+ ubject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261212
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-12-10-25@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Second 7-week undergraduate session ends.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-12-11-26@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Undergraduate reading period.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday - Sunday. Calendar subj
+ ect to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-12-14-27@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Undergraduate final examinations.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Monday - Thursday. Calendar su
+ bject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261218
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2026-12-18-28@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:All residence halls close for Winter Break.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday at 13:00 PM. Calendar s
+ ubject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-01-09-29@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:All residence halls reopen.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Saturday at 9:00 AM. Calendar 
+ subject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-01-11-30@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Undergraduate and graduate classes begin.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Monday. Calendar subject to ch
+ ange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-01-14-31@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Drop/add ends for first 7-week undergraduate session.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-01-21-32@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Drop/add ends for 14-week undergraduate session.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-01-22-33@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Drop/add ends for graduate classes.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday. Calendar subject to ch
+ ange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-02-05-34@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Spring Festival Holiday - Chinese New Year - No classes.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday - Sunday. Calendar subj
+ ect to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270215
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-02-15-35@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:All classes resume.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Monday. Calendar subject to ch
+ ange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-02-18-36@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Last day to withdraw with a W grade of first 7-week classes\; last 
+ day to change grading basis of first 7-week classes\; last day to resolve I
+  grade of fall 2026 second 7-week classes.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-03-04-37@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:First 7-week undergraduate session ends.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-03-05-38@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Undergraduate reading days.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday - Sunday. Calendar subj
+ ect to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270308
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-03-08-39@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:First 7-week undergraduate session final examinations. Graduate cla
+ sses continue.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Monday - Thursday. Calendar su
+ bject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270312
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-03-15-40@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Mini-term week for undergraduate students\; Spring recess for gradu
+ ate programs.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Monday - Friday. Calendar subj
+ ect to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-03-22-41@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Second 7-week undergraduate session begins.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Monday. Calendar subject to ch
+ ange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-03-25-42@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Drop/add ends for second 7-week undergraduate session.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-04-05-43@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Qing Ming - Tomb Sweeping Day - No classes.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Monday. Calendar subject to ch
+ ange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-04-06-44@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:The Monday class schedule is in effect on this day.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Tuesday. Calendar subject to c
+ hange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-04-07-45@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:The Tuesday class schedule is in effect on this day.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Wednesday. Calendar subject to
+  change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-04-08-46@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:The Wednesday class schedule is in effect on this day.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-04-09-47@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:The Thursday class schedule is in effect on this day. Last day to w
+ ithdraw with a W grade of 14-week classes. Last day to change grading basis
+  of 14-week classes.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday. Calendar subject to ch
+ ange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-04-22-48@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Graduate classes end (ECE classes continue)\; last day to withdraw 
+ with a W grade of second 7-week classes\; last day to change grading basis 
+ for second 7-week classes\; last day for I grade change of spring 2027 firs
+ t 7-week classes.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-04-23-49@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Graduate reading days.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday - Tuesday. Calendar sub
+ ject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270428
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-04-28-50@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Graduate exams\; ECE classes continue.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Wednesday - Friday. Calendar s
+ ubject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270501
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-04-29-51@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:ECE classes end.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-04-30-52@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:ECE program reading days.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday - Tuesday. Calendar sub
+ ject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270505
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-05-01-53@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:International Labor Day Holiday - No classes.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Saturday - Monday. Calendar su
+ bject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270504
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-05-04-54@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:The Monday class schedule is in effect on this day.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Tuesday. Calendar subject to c
+ hange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-05-05-55@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:The Tuesday class schedule is in effect on this day.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Wednesday. Calendar subject to
+  change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-05-06-56@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:The Wednesday class schedule is in effect on this day.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Thursday. Calendar subject to 
+ change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-05-07-57@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:The Thursday class schedule is in effect on this day. Second 7-week
+  undergraduate session ends.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday. Calendar subject to ch
+ ange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-05-05-58@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:ECE program exam period.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Wednesday - Friday. Calendar s
+ ubject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270508
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-05-08-59@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Undergraduate reading days.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Saturday - Sunday. Calendar su
+ bject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270510
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-05-10-60@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Undergraduate final exam period.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Monday - Thursday. Calendar su
+ bject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270514
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-05-21-61@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:Graduate and Undergraduate Commencement.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Friday. Calendar subject to ch
+ ange. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+CATEGORIES:Academic Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dku-academic-calendar-2027-05-22-62@dukekunshan.edu.cn
+DTSTAMP:20260908T000000Z
+SUMMARY:All residence halls close.
+DESCRIPTION:DKU Academic Calendar 2026-2027. Saturday at 13:00. Calendar su
+ bject to change. Source updated Jan. 15\, 2026.
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+CATEGORIES:Academic Calendar
+END:VEVENT
+END:VCALENDAR
